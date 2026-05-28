@@ -1,0 +1,10 @@
+node_modules/
+package-lock.json
+*.idea
+*target/
+.next
+.env
+.env.*
+coverage
+.DS_Store
+*.log
